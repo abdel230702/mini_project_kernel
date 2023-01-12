@@ -1,0 +1,5 @@
+obj-m += module5.o
+obj-m += module2.o
+obj-m += pilot_example.o
+obj-m += mini_project_AKB.o
+
